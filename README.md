@@ -1,22 +1,23 @@
-# Hi there 👋, I'm Yash
+# Hi there 👋 I'm Yash
 
-I'm learning and building cool stuff with:
+I design and build thoughtful, performant web experiences.
 
-### 🛠️ Tech I’m Learning
-- 🧑‍🎨 HTML & CSS
-- ⚡ JavaScript
-- ⚛️ React 
-- 🛍️ Shopify (Liquid templates)
-- 🐍 Python
+### 🧰 Tech I Work With
+- 🧑‍🎨 HTML, CSS
+- ⚡ JavaScript (ES6+)
+- ⚛️ React (Hooks, Context, Next.js)
+- 🛍️ Shopify (Liquid, ThemeKit)
+- 🐍 Python (Django, basic scripting, Scraping)
 
-### 🚀 Goals
-- Build custom Shopify themes
-- Improve in React & frontend development
+### 🧱 What I’m Building
+- Custom Shopify themes & apps
+- Scalable frontend components in React
 
-### 📁 Projects I’m Working On
-- Personal portfolio website
-- Shopify theme customizations and App Development
+### 🚀 Current Focus
+- Pushing the boundaries of Shopify's ecosystem
+- Creating clean, maintainable codebases
+- Exploring modern frontend tools & frameworks
 
-I enjoy mixing design + code and figuring out how things work!
+I enjoy blending design and code to bring ideas to life—especially when it involves solving complex UI challenges or enhancing user experiences.
 
-Thanks for checking out my profile 😊
+Thanks for stopping by! 😊
