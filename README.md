@@ -6,12 +6,11 @@ I design and build thoughtful, performant web experiences.
 - 🧑‍🎨 HTML, CSS
 - ⚡ JavaScript (ES6+)
 - ⚛️ React (Hooks, Context, Next.js)
-- 🛍️ Shopify (Liquid, ThemeKit)
+- 🛍️ Shopify (Liquid)
 - 🐍 Python (Django, basic scripting, Scraping)
 
 ### 🧱 What I’m Building
 - Custom Shopify themes & apps
-- Scalable frontend components in React
 
 ### 🚀 Current Focus
 - Pushing the boundaries of Shopify's ecosystem
