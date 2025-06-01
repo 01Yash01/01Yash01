@@ -65,7 +65,10 @@ I enjoy blending design and code to bring ideas to life—especially when it inv
 
 ### 🧊 3D Contribution Graph
 
-[![3D Graph](https://github.com/01Yash01/01Yash01/blob/main/profile-3d-contrib/profile-green.svg)](https://github.com/yassinebridi/github-profile-3d-contrib)
+<div align="center">
+  <img src="https://github.com/01Yash01/01Yash01/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
+</div>
+
 
 
 <br>
