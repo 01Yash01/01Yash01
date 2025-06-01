@@ -2,7 +2,7 @@ name: Generate 3D Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * 0"  # Runs every Sunday
+    - cron: "0 0 * * 0"  # Every Sunday
   workflow_dispatch:
 
 jobs:
@@ -12,10 +12,9 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Generate 3D Contribution Graph
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          username: ${{ github.repository_owner }}
+        uses: Ashutosh00710/github-profile-3d-contrib@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit & Push
         run: |
