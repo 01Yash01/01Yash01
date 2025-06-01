@@ -2,6 +2,9 @@
 <h3 align="center">🚀 A passionate learner and developer. I design and build thoughtful, performant web experiences.</h3>
 
 
+
+---
+
 ### 🧰 Tech I Work With
 - 🧑‍🎨 HTML, CSS
 - ⚡ JavaScript (ES6+)
@@ -9,8 +12,14 @@
 - 🛍️ Shopify (Liquid)
 - 🐍 Python (Django, scripting, Scraping)
 
+
+---
+
 ### 🧱 What I’m Building
 - Custom Shopify themes & apps
+
+
+---
 
 ### 🚀 Current Focus
 - Pushing the boundaries of Shopify's ecosystem
