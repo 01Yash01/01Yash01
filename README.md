@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash</h1>
+<h3 align="center">🚀 A passionate learner and developer. I design and build thoughtful, performant web experiences.</h3>
 
-I design and build thoughtful, performant web experiences.
 
 ### 🧰 Tech I Work With
 - 🧑‍🎨 HTML, CSS
