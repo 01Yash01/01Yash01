@@ -70,7 +70,6 @@ I enjoy blending design and code to bring ideas to life—especially when it inv
 </div>
 
 
-
 <br>
 
 <hr style="border: none; border-top: 1px solid #ccc;" />
