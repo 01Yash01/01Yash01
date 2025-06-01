@@ -1,25 +1,25 @@
-name: Generate 3D Contribution Graph
+name: Auto Contributions
 
 on:
   schedule:
-    - cron: "0 0 * * 0"  # Every Sunday
+    - cron: "0 8 * * *" # Adjust the time as per your preference.
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+    name: Generate 3D Profile SVGs
     steps:
-      - uses: actions/checkout@v3
-
-      - uses: Jasper2310/github-profile-3d-contrib@main
-        with:
-          username: 01Yash01
-          output_path: profile-3d-contrib/profile-green.svg
+      - uses: actions/checkout@v4
+      - uses: ./ 
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
 
       - name: Commit & Push
         run: |
-          git config --global user.name "Yash"
-          git config --global user.email "sisodiya98yash@gmail.com"
-          git add profile-3d-contrib/profile-green.svg
-          git commit -m "Update 3D contribution graph"
+          git config user.name ${{ github.actor }}
+          git config user.email ${{ github.actor }}@users.noreply.github.com
+          git add .
+          git commit -m "Updated 3D Profile SVGs."
           git push
