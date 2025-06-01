@@ -17,8 +17,6 @@
 
 <br>
 
-<hr style="border: none; border-top: 1px solid #ccc;" />
-
 <br>
 
 ### 🧱 What I’m Building
