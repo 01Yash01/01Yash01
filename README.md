@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Yash
+<h1 align="center">Hi 👋, I'm Yash</h1>
 
 I design and build thoughtful, performant web experiences.
 
