@@ -45,7 +45,7 @@ I'm a passionate **Frontend Developer** with **2.5+ years** of experience buildi
 - **Version Control**: Git, GitHub
 - **Package Managers**: npm, yarn
 - **Build Tools**: Webpack, Vite
-- **Design**: Figma, Adobe XD
+- **Design**: Figma, Webflow, Blender, Canva
 - **Performance**: Lighthouse, Chrome DevTools
 
 <br>
@@ -54,7 +54,6 @@ I'm a passionate **Frontend Developer** with **2.5+ years** of experience buildi
 
 - 🏪 **Advanced Shopify Solutions**: Custom apps with React & Node.js
 - 🎨 **Design System**: Reusable component library
-- 📱 **PWA Development**: Converting e-commerce sites to Progressive Web Apps
 - 🚀 **Performance Optimization**: Core Web Vitals improvements
 
 <br>
@@ -63,7 +62,7 @@ I'm a passionate **Frontend Developer** with **2.5+ years** of experience buildi
 
 - ⚡ **Performance**: Improved site loading times by 60% through optimization
 - 💰 **Conversion**: Increased client conversion rates by 25% with UX improvements
-- 🎨 **UI/UX**: Delivered 50+ pixel-perfect designs with cross-browser compatibility
+- 🎨 **UI/UX**: Delivered 30+ pixel-perfect designs with cross-browser compatibility
 - 🔧 **Problem Solving**: Resolved complex technical challenges in tight deadlines
 
 <br>
@@ -139,6 +138,10 @@ I'm actively seeking **Frontend Developer** and **Full-Stack Developer** roles w
 </p>
 
 <br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=01Yash01&style=flat-square&color=blue" alt="Profile views" />
+</p>
 
 <p align="center">
   <em>"Building the web, one commit at a time"</em> ✨
