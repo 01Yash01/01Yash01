@@ -52,7 +52,7 @@ I'm a passionate **Frontend Developer** with **2.5+ years** of experience buildi
 
 ## 🎯 What I'm Currently Building
 
-- 🏪 **Advanced Shopify Solutions**: Custom apps with React & Node.js
+- 🏪 **Advanced Shopify Solutions**: Custom shopify apps with React & Node.js
 - 🎨 **Design System**: Reusable component library
 - 🚀 **Performance Optimization**: Core Web Vitals improvements
 
@@ -144,5 +144,5 @@ I'm actively seeking **Frontend Developer** and **Full-Stack Developer** roles w
 </p>
 
 <p align="center">
-  <em>"Building the web, one commit at a time"</em> ✨
+  <em>"Software is a great combination of artistry and engineering."</em> ✨
 </p>
