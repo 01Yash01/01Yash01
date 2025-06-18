@@ -8,9 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58a6ff&center=true&vCenter=true&width=435&lines=Frontend+Developer;E-commerce+Solutions+Expert;React+%26+JavaScript+Enthusiast;UI%2FUX+Implementation+Specialist" alt="Typing SVG" />
 </p>
 
-<br>
-<hr style="border: none; border-top: 1px solid #30363d;" />
-<br>
+
 
 ## 🚀 About Me
 
