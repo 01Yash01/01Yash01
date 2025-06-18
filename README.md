@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Frontend Developer** with **3+ years** of experience building scalable web applications and e-commerce solutions. I specialize in creating pixel-perfect, performant user interfaces that drive business results.
+I'm a passionate **Frontend Developer** with **2.5+ years** of experience building scalable web applications and e-commerce solutions. I specialize in creating pixel-perfect, performant user interfaces that drive business results.
 
 - 🔥 **Frontend Focus**: React, JavaScript (ES6+), HTML5, CSS3
 - 🛒 **E-commerce Expert**: Shopify theme development & custom solutions
@@ -24,9 +24,9 @@ I'm a passionate **Frontend Developer** with **3+ years** of experience building
 ## 💼 Professional Experience
 
 **Frontend & E-commerce Development** • *3+ Years*
-- Built **20+ custom Shopify themes** with advanced functionality
-- Developed responsive web applications serving **10K+ users**
-- Optimized site performance achieving **90+ PageSpeed scores**
+- Built **20+ custom Shopify themes** base site with advanced functionality
+- Developed responsive web applications serving **50K+ users monthly**
+- Optimized site performance and bug fixing
 - Collaborated with cross-functional teams on enterprise-level projects
 
 <br>
@@ -35,9 +35,9 @@ I'm a passionate **Frontend Developer** with **3+ years** of experience building
 
 ### **Frontend Technologies**
 ```
-JavaScript (ES6+)    ████████████████████ 95%
-React.js             ████████████████████ 90%
-HTML5 & CSS3         ████████████████████ 95%
+JavaScript (ES6+)    ████████████████████ 85%
+React.js             ████████████████████ 70%
+HTML5 & CSS3         ████████████████████ 90%
 Responsive Design    ████████████████████ 90%
 ```
 
@@ -45,24 +45,23 @@ Responsive Design    ███████████████████�
 ```
 Shopify (Liquid)     ████████████████████ 85%
 Next.js              ████████████████████ 80%
-Python (Django)      ████████████████████ 75%
-API Integration      ████████████████████ 85%
+Python (Django)      ████████████████████ 65%
+API Integration      ████████████████████ 75%
 ```
 
 ### **Tools & Workflow**
 - **Version Control**: Git, GitHub
 - **Package Managers**: npm, yarn
 - **Build Tools**: Webpack, Vite
-- **Design**: Figma, Adobe XD
+- **Design**: Figma, Blender, Canva
 - **Performance**: Lighthouse, Chrome DevTools
 
 <br>
 
 ## 🎯 What I'm Currently Building
 
-- 🏪 **Advanced Shopify Solutions**: Custom apps with React & Node.js
+- 🏪 **Advanced Shopify Solutions**: Working on custom apps with React & Node.js
 - 🎨 **Design System**: Reusable component library
-- 📱 **PWA Development**: Converting e-commerce sites to Progressive Web Apps
 - 🚀 **Performance Optimization**: Core Web Vitals improvements
 
 <br>
@@ -71,7 +70,7 @@ API Integration      ███████████████████�
 
 - ⚡ **Performance**: Improved site loading times by 60% through optimization
 - 💰 **Conversion**: Increased client conversion rates by 25% with UX improvements
-- 🎨 **UI/UX**: Delivered 50+ pixel-perfect designs with cross-browser compatibility
+- 🎨 **UI/UX**: Delivered pixel-perfect designs with cross-browser compatibility
 - 🔧 **Problem Solving**: Resolved complex technical challenges in tight deadlines
 
 <br>
