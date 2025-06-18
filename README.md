@@ -8,14 +8,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58a6ff&center=true&vCenter=true&width=435&lines=Frontend+Developer;E-commerce+Solutions+Expert;React+%26+JavaScript+Enthusiast;UI%2FUX+Implementation+Specialist" alt="Typing SVG" />
 </p>
 
-
-
 ## 🚀 About Me
 
 I'm a passionate **Frontend Developer** with **2.5+ years** of experience building scalable web applications and e-commerce solutions. I specialize in creating pixel-perfect, performant user interfaces that drive business results.
 
 - 🔥 **Frontend Focus**: React, JavaScript (ES6+), HTML5, CSS3
-- 🛒 **E-commerce Expert**: Shopify theme development & custom solutions
+- 🛒 **E-commerce Expert**: Shopify theme custmization, App development & custom solutions
 - 💡 **Problem Solver**: Turning complex requirements into elegant code
 - 📈 **Growth Mindset**: Continuously learning and adapting to new technologies
 
@@ -23,45 +21,40 @@ I'm a passionate **Frontend Developer** with **2.5+ years** of experience buildi
 
 ## 💼 Professional Experience
 
-**Frontend & E-commerce Development** • *3+ Years*
-- Built **20+ custom Shopify themes** base site with advanced functionality
+**Frontend & E-commerce Development** • *2.5+ Years*
+-Customized Shopify themes with advanced functionality to meet specific needs
 - Developed responsive web applications serving **50K+ users monthly**
-- Optimized site performance and bug fixing
-- Collaborated with cross-functional teams on enterprise-level projects
+- Optimized site performance, bug fixing and solving technical issues
+- Collaborated with cross-functional teams
 
 <br>
 
 ## 🛠️ Technical Arsenal
 
 ### **Frontend Technologies**
-```
-JavaScript (ES6+)    ████████████████████ 85%
-React.js             ████████████████████ 70%
-HTML5 & CSS3         ████████████████████ 90%
-Responsive Design    ████████████████████ 90%
-```
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,typescript,nextjs" alt="Frontend Skills" />
+</div>
 
-### **E-commerce & Backend**
-```
-Shopify (Liquid)     ████████████████████ 85%
-Next.js              ████████████████████ 80%
-Python (Django)      ████████████████████ 65%
-API Integration      ████████████████████ 75%
-```
+### **Backend & Tools**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,git,github,vscode" alt="Backend & Tools" />
+</div>
 
 ### **Tools & Workflow**
 - **Version Control**: Git, GitHub
 - **Package Managers**: npm, yarn
 - **Build Tools**: Webpack, Vite
-- **Design**: Figma, Blender, Canva
+- **Design**: Figma, Adobe XD
 - **Performance**: Lighthouse, Chrome DevTools
 
 <br>
 
 ## 🎯 What I'm Currently Building
 
-- 🏪 **Advanced Shopify Solutions**: Working on custom apps with React & Node.js
+- 🏪 **Advanced Shopify Solutions**: Custom apps with React & Node.js
 - 🎨 **Design System**: Reusable component library
+- 📱 **PWA Development**: Converting e-commerce sites to Progressive Web Apps
 - 🚀 **Performance Optimization**: Core Web Vitals improvements
 
 <br>
@@ -70,7 +63,7 @@ API Integration      ███████████████████�
 
 - ⚡ **Performance**: Improved site loading times by 60% through optimization
 - 💰 **Conversion**: Increased client conversion rates by 25% with UX improvements
-- 🎨 **UI/UX**: Delivered pixel-perfect designs with cross-browser compatibility
+- 🎨 **UI/UX**: Delivered 50+ pixel-perfect designs with cross-browser compatibility
 - 🔧 **Problem Solving**: Resolved complex technical challenges in tight deadlines
 
 <br>
@@ -103,8 +96,9 @@ API Integration      ███████████████████�
 
 <br>
 
+### 🧊 3D Contribution Graph
 <div align="center">
-  <img src="https://github.com/01Yash01/01Yash01/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=01Yash01&theme=tokyo-night&hide_border=true&area=true" alt="3D Contribution Graph" />
 </div>
 
 <br>
@@ -145,10 +139,6 @@ I'm actively seeking **Frontend Developer** and **Full-Stack Developer** roles w
 </p>
 
 <br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=01Yash01&style=flat-square&color=blue" alt="Profile views" />
-</p>
 
 <p align="center">
   <em>"Building the web, one commit at a time"</em> ✨
