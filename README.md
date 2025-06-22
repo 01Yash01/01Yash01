@@ -24,7 +24,7 @@ I'm a passionate **Frontend Developer** with **2.5+ years** of experience buildi
 **Frontend & E-commerce Development** • *2.5+ Years*
 -Customized Shopify themes with advanced functionality to meet specific needs
 - Developed responsive web applications serving **50K+ users monthly**
-- Optimized site performance, bug fixing and solving technical issues
+- Optimized site performance, bug fixing, and solving technical issues
 - Collaborated with cross-functional teams
 
 <br>
@@ -38,7 +38,7 @@ I'm a passionate **Frontend Developer** with **2.5+ years** of experience buildi
 
 ### **Backend & Tools**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,nodejs,git,github,vscode" alt="Backend & Tools" />
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,git,github" alt="Backend & Tools" />
 </div>
 
 ### **Tools & Workflow**
