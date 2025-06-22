@@ -60,7 +60,7 @@ I'm a passionate **Frontend Developer** with **2.5+ years** of experience buildi
 
 ## 🌟 Key Achievements
 
-- ⚡ **Performance**: Improved site loading times by 60% through optimization
+- ⚡ **Performance**: Improved site loading times through optimization
 - 💰 **Conversion**: Increased client conversion rates by 25% with UX improvements
 - 🎨 **UI/UX**: Delivered 30+ pixel-perfect designs with cross-browser compatibility
 - 🔧 **Problem Solving**: Resolved complex technical challenges in tight deadlines
