@@ -116,7 +116,7 @@ I'm a passionate **Frontend Developer** with **2.5+ years** of experience buildi
 I'm actively seeking **Frontend Developer** and **Full-Stack Developer** roles where I can contribute to innovative projects and continue growing my expertise.
 
 **What I bring to the table:**
-- Strong foundation in modern JavaScript frameworks
+- Strong foundation in modern JavaScript frameworks.
 - Proven track record in e-commerce development
 - Eye for detail and commitment to code quality
 - Collaborative mindset and excellent problem-solving skills
