@@ -119,7 +119,7 @@ I'm actively seeking **Frontend Developer** and **Full-Stack Developer** roles w
 - Strong foundation in modern JavaScript frameworks.
 - Proven track record in e-commerce development
 - Eye for detail and commitment to code quality
-- Collaborative mindset and excellent problem-solving skills
+- Collaborative mindset and excellent problem-solving skills.
 
 <br>
 
