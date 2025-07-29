@@ -33,7 +33,7 @@ I'm a passionate **Frontend Developer** with **2.5+ years** of experience buildi
 
 ### **Frontend Technologies**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,typescript,nextjs" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,typescript,webflow,nextjs" alt="Frontend Skills" />
 </div>
 
 ### **Backend & Tools**
