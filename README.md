@@ -21,7 +21,7 @@ I'm a passionate **Frontend Developer** with **3+ years** of experience building
 
 ## 💼 Professional Experience
 
-**Frontend & E-commerce Development** • *2.5+ Years*
+**Frontend & E-commerce Development** • *3+ Years*
 -Customized Shopify themes with advanced functionality to meet specific needs
 - Developed responsive web applications serving **50K+ users monthly**
 - Optimized site performance, bug fixing, and solving technical issues
