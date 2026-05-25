@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Frontend Developer** with **2.5+ years** of experience building scalable web applications and e-commerce solutions. I specialize in creating pixel-perfect, performant user interfaces that drive business results.
+I'm a passionate **Frontend Developer** with **3+ years** of experience building scalable web applications and e-commerce solutions. I specialize in creating pixel-perfect, performant user interfaces that drive business results.
 
 - 🔥 **Frontend Focus**: React, JavaScript (ES6+), HTML5, CSS3
 - 🛒 **E-commerce Expert**: Shopify theme custmization, App development & custom solutions
