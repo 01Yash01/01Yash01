@@ -43,10 +43,10 @@ I'm a **Ecommerce Developer** with **3+ years** of experience building scalable 
 
 ### **Tools & Workflow**
 - **Version Control**: Git, GitHub
-- **Package Managers**: npm, yarn
+- **Package Managers**: npm
 - **Build Tools**: Webpack, Vite
 - **Design**: Figma, Webflow, Blender, Canva
-- **Performance**: Lighthouse, Chrome DevTools
+- **Performance and Debugging**: Lighthouse, Chrome DevTools
 
 <br>
 
